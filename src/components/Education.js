@@ -20,7 +20,7 @@ export default function Education() {
                     aria-expanded="true"
                     aria-controls="collapseOne"
                   >
-                    Full Stack Developer
+                    Full Stack Developer (Certification)
                   </button>
                 </h2>
                 <div

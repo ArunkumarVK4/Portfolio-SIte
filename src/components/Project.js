@@ -18,7 +18,9 @@ export default function Project() {
             {" "}
             Project{" "}
           </h1>
+          
 
+            <h3 className="mt-3 text-start get text-center ">Doctor Appointment Booking Management</h3>
           
           <div className="col-lg-5 col-md-12 col-12 text-center mx-auto">
             <br />
@@ -71,6 +73,8 @@ export default function Project() {
           </div>
 
                               {/* 2  */}
+            <h3 className="mt-3 text-start get text-center ">Courser Selling Site</h3>
+
           <div className="col-lg-5 col-md-12 col-12 text-center mx-auto">
             <br />
             <h5 className="mt-3 text-start get ">
@@ -122,6 +126,8 @@ export default function Project() {
           </div>
 
           {/* 3 */}
+          <h3 className="mt-3 text-start get text-center ">Book Store Site</h3>
+
           <div className="col-lg-5 col-md-12 col-12 text-center mx-auto">
             <br />
             <h5 className="mt-3 text-start get ">
@@ -175,6 +181,7 @@ export default function Project() {
           </div>
 
           {/* 4 */}
+          <h3 className="mt-3 text-start get text-center ">ToDo App</h3>
 
           <div className="col-lg-5 col-md-12 col-12 text-center mx-auto">
             <br />
@@ -229,6 +236,8 @@ export default function Project() {
           </div>
 
           {/* 5 */}
+          <h3 className="mt-3 text-start get text-center ">HULU Site</h3>
+
           <div className="col-lg-5 col-md-12 col-12 text-center mx-auto">
             <br />
             <h5 className="mt-3 text-start get ">
